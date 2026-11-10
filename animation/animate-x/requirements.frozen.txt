@@ -125,7 +125,7 @@ packaging==24.2
 pandas==2.1.4
 parso==0.8.3
 pexpect==4.9.0
-pillow==10.2.0
+pillow==13.0.0
 piq==0.8.0
 pkgconfig==1.5.5
 prompt-toolkit==3.0.43
