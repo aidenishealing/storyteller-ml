@@ -50,7 +50,7 @@ sympy==1.12
 tensorboard==2.13.0
 tensorboard-data-server==0.7.0
 threadpoolctl==3.1.0
-torch==2.0.1
+torch==2.13.0
 torchaudio==2.0.2
 tqdm==4.65.0
 triton==2.0.0
